@@ -32,11 +32,18 @@
 
 ## Input:
 
+![image](https://github.com/Anandanaruvi/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120443233/39c05cd1-5422-4010-b706-1f4e6b02089f)
+
+
 ### Output:
 
+![image](https://github.com/Anandanaruvi/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120443233/37395bc8-c784-4a3e-8b69-ee1601d6de46)
 
-### Name:
-### Register Number:
+
+### Name:A.ARUVI.
+### Register Number:212222230014.
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+
+
